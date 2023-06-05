@@ -1,8 +1,8 @@
 {
   "fariType": "character",
   "group": "Cairn",
-  "lastUpdated": 1685915053,
-  "name": "",
+  "lastUpdated": 1685996072,
+  "name": "Cairn Template",
   "pages": [
     {
       "id": "e0ab1a77-5d3a-4e9d-8ae4-2554a7c655d8",
@@ -172,7 +172,7 @@
                       "id": "4ea20129-5eca-485c-a5a2-3f130e6c58e7",
                       "label": "",
                       "meta": {
-                        "helperText": "<b>STR&nbsp;</b>0 means <b>death</b>.<br>",
+                        "helperText": "<i><b>STR&nbsp;</b>0 means <b>death</b>.</i><br>",
                         "isMainPointCounter": false,
                         "max": "1",
                         "width": 0.5
@@ -208,7 +208,7 @@
                       "id": "2dee75b3-3468-412a-a934-4a705d0d7b02",
                       "label": "",
                       "meta": {
-                        "helperText": "<b>DEX</b> 0 means <b>paralysis</b>.<br>",
+                        "helperText": "<i><b>DEX</b> 0 means <b>paralysis</b>.</i><br>",
                         "isMainPointCounter": false,
                         "max": "1",
                         "width": 0.5
@@ -245,7 +245,7 @@
                       "id": "eb794628-1f8c-4033-8e79-dbe52ccfe165",
                       "label": "",
                       "meta": {
-                        "helperText": "<b>WIL</b> 0 means <b>delirium</b>.<br>",
+                        "helperText": "<i><b>WIL</b> 0 means <b>delirium</b>.</i><br>",
                         "isMainPointCounter": false,
                         "max": "1",
                         "width": 0.5
