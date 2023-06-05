@@ -38,9 +38,9 @@ A reference page containing the full text of the SRD section of the same name. I
 
 ## Disclaimers
 
-First, it's important to note while this character sheet is perfectly usable and feature complete at this point in time, I already have plans to populate the template with additional helper text to make the character creation process easier for first-time players to understand.
+It's important to keep in mind that, while this character sheet is perfectly usable and feature complete at this point in time, I have not playtested it beyond the creation of a few samples characters in an [offline Fari session](https://fari.app/play-offline). 
 
-Additionally, this character sheet has not been playtested beyond the creation of a few test characters in an [offline Fari session](https://fari.app/play-offline) to glean minor insights into the new-user process.
+Consider contributing (see below) if you run into issues or notice something strange.
 
 ## Want to contribute?
 
